@@ -25,6 +25,10 @@ CORTANA adalah bash script yang dibuat untuk keperluan instalasi komponen untuk 
 wget -q https://cortana.web.app/run.sh && bash run.sh
 ```
 
+## Preview 
+
+[![asciicast](https://asciinema.org/a/ywby6Js8jvgtVSOcTvKTkxJb9.svg)](https://asciinema.org/a/ywby6Js8jvgtVSOcTvKTkxJb9)
+
 ## Live site
 https://cortana.web.app
 
